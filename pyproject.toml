@@ -1,6 +1,6 @@
 [project]
 name = "big-integer-square-root"
-version = "0.1.0"
+version = "0.1.1"
 description = "Computes the integer floor of the square root of an arbitrarily large integer using Newton's method with exact division."
 requires-python = ">=3.10"
 dependencies = []
